@@ -30,6 +30,7 @@ again. The repositories below are kept deliberately, dates and all.
 | **2019** | [Login System](https://github.com/MuathAlhazmi/Login-System-using-python) · [Number Game](https://github.com/MuathAlhazmi/Number-game-using-python) | First Python. The login README warned that it stored passwords in plaintext — I could name the flaw before I could fix it. |
 | **2021** | [Weather Website](https://github.com/MuathAlhazmi/Weather-Website) | Vanilla JS — geolocation, `fetch`, no framework. |
 | **2021** | [CoffeeLeaf](https://github.com/MuathAlhazmi/CoffeeLeaf) | First real Flutter app. 8,000 lines, 40 packages, still maintained. |
+| **2021** | [flutter-pos](https://github.com/MuathAlhazmi/flutter-pos) *(fork)* | Arabic localisation of someone else's POS, including the ESC/POS thermal receipt path. ~700 lines on top of [tcd93/flutter-pos](https://github.com/tcd93/flutter-pos). |
 | **2022** | [Workflow](https://github.com/MuathAlhazmi/Workflow) | Realtime chat with voice messages and polls, on Firebase. |
 | **2026** | [Mula](https://github.com/MuathAlhazmi/pulsespend) · [New Knowledge](https://github.com/MuathAlhazmi/newknowledge) · Lin Babak | Production apps, a deployed platform, and commercial client work. |
 
