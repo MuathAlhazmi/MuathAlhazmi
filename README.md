@@ -11,7 +11,7 @@ I have been writing code and putting it on GitHub since **December 2018**.
 
 | Project | What it is | Stack |
 |---|---|---|
-| **[Mula](https://github.com/MuathAlhazmi/pulsespend)** | Offline-first personal finance app. Bank CSV import, category budgets, and AI assistance behind a Cloudflare Worker so the API key never ships in the binary. **~22,000 lines.** | Flutter · Riverpod · Isar · Cloudflare Workers |
+| **Mula** *(private — available on request)* | Offline-first personal finance app. Bank CSV import, category budgets, and AI assistance behind a Cloudflare Worker so the API key never ships in the binary. **~22,000 lines.** | Flutter · Riverpod · Isar · Cloudflare Workers |
 | **[New Knowledge](https://github.com/MuathAlhazmi/newknowledge)** | Arabic learning platform — timed pre/post exams, assignments, grading, attendance, coursework chat. 24 database models, three roles. **~16,500 lines.** [Live ↗](https://newknowledge-beige.vercel.app) | Next.js 16 · React 19 · Prisma · Supabase |
 | **[Workflow](https://github.com/MuathAlhazmi/Workflow)** | Team collaboration app built around shared task lists — group chat with voice notes and waveforms, in-chat polls, push notifications. **Started July 2022.** | Flutter · Firebase · flutter_sound |
 | **[CoffeeLeaf](https://github.com/MuathAlhazmi/CoffeeLeaf)** | Café ordering app — menu, cart, table booking, order tracking, biometric confirmation at checkout. **Commit history from July 2021.** | Flutter · Firebase · local_auth |
@@ -32,7 +32,7 @@ again. The repositories below are kept deliberately, dates and all.
 | **2021** | [CoffeeLeaf](https://github.com/MuathAlhazmi/CoffeeLeaf) | First real Flutter app. 8,000 lines, 40 packages, still maintained. |
 | **2021** | [flutter-pos](https://github.com/MuathAlhazmi/flutter-pos) *(fork)* | Arabic localisation of someone else's POS, including the ESC/POS thermal receipt path. ~700 lines on top of [tcd93/flutter-pos](https://github.com/tcd93/flutter-pos). |
 | **2022** | [Workflow](https://github.com/MuathAlhazmi/Workflow) | Realtime chat with voice messages and polls, on Firebase. |
-| **2026** | [Mula](https://github.com/MuathAlhazmi/pulsespend) · [New Knowledge](https://github.com/MuathAlhazmi/newknowledge) · Lin Babak | Production apps, a deployed platform, and commercial client work. |
+| **2026** | Mula · [New Knowledge](https://github.com/MuathAlhazmi/newknowledge) · [Lin Babak](https://github.com/MuathAlhazmi/lin-babak-case-study) | Production apps, a deployed platform, and commercial client work. |
 
 Everything up to and including **Workflow (July 2022)** was written before
 ChatGPT existed. I mention it because the dates are checkable, and because the
