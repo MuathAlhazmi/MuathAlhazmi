@@ -11,7 +11,7 @@ I have been writing code and putting it on GitHub since **December 2018**.
 
 | Project | What it is | Stack |
 |---|---|---|
-| **Mula** *(private — available on request)* | Offline-first personal finance app. Bank CSV import, category budgets, and AI assistance behind a Cloudflare Worker so the API key never ships in the binary. **~22,000 lines.** | Flutter · Riverpod · Isar · Cloudflare Workers |
+| **Mula** | Offline-first personal finance app. Bank CSV import, category budgets, and AI assistance behind a Cloudflare Worker so the API key never ships in the binary. **~22,000 lines.** | Flutter · Riverpod · Isar · Cloudflare Workers |
 | **[New Knowledge](https://github.com/MuathAlhazmi/newknowledge)** | Arabic learning platform — timed pre/post exams, assignments, grading, attendance, coursework chat. 24 database models, three roles. **~16,500 lines.** [Live ↗](https://newknowledge-beige.vercel.app) | Next.js 16 · React 19 · Prisma · Supabase |
 | **[Workflow](https://github.com/MuathAlhazmi/Workflow)** | Team collaboration app built around shared task lists — group chat with voice notes and waveforms, in-chat polls, push notifications. **Started July 2022.** | Flutter · Firebase · flutter_sound |
 | **[CoffeeLeaf](https://github.com/MuathAlhazmi/CoffeeLeaf)** | Café ordering app — menu, cart, table booking, order tracking, biometric confirmation at checkout. **Commit history from July 2021.** | Flutter · Firebase · local_auth |
